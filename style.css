@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rgb(121, 117, 117); */
+    /* background-color: lightslategray; */
+    background-color: #606060;
+}
+.contaner{
+    text-align: center;
+    line-height: 15px;
+}
+.u_line{
+    text-decoration: underline;
+    color: skyblue;
+}
+h3{
+    /* text-decoration: underline; */
+    position: relative;
+    left: 550px;
+}
+.gray{
+    color: darkgray;
+}
+.skyblue{
+    color: skyblue;
+}
+table{
+    border-collapse: collapse;
+    /* text-transform: uppercase; */
+    position: absolute;
+    right: 140px;
+    
+}
+th{
+    border: 1px solid black;
+    text-align: center;
+    text-transform: uppercase;
+    /* background-color: darkgrey; */
+}
+td{
+    border: 1px solid black;
+    text-transform: uppercase;
+}
+.N-o{
+    width: 30px;
+    text-align: center ;
+    /* color: skyblue; */
+
+}
+.No{
+    width: 30px;
+    text-align: center ;
+    color: skyblue;
+}
+.I-D{
+    width: 60px;
+    text-align: center ;
+}
+.ID{
+    width: 60px;
+    text-align: center ;
+    color: darkgray;
+}
+.Name{
+    width: 300px;
+    text-align: center ;
+}
+.F-Name{
+    width: 300px;
+    text-align: center ;
+}
+.code{
+    width: 60px;
+    text-align: center ;
+}
+.Code{
+    width: 60px;
+    text-align: center ;
+    color: darkgray;
+}
+.D-p{
+    width: 350px;
+    text-align: center ;
+}
+.class{
+    width: 70px;
+    text-align: center ;
+}
+.acd{
+    width: 60px;
+    text-align: center ;
+}
+.Acd{
+    width: 60px;
+    text-align: center ;
+    color: darkgray;
+}
